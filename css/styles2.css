@@ -1,0 +1,117 @@
+.contaner2 {
+max-width: 1200px;
+margin: 0 auto;
+}
+.logo2 {
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+    color: #000;
+    transition: all .08 ease-in-out;
+    margin-left: 375px;
+    margin-top: 15px;
+  }
+.logo3{
+  margin-top: 30px;
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+  display: flex;
+  justify-content: space-around;
+  }
+  .mag {
+   
+    height: 200px;
+    background-color:247, 243, 215;
+    border-radius: 5px;
+  }
+  .img {
+    object-fit: cover;
+    max-width: 300px;
+    max-height: 200px;
+    border-radius: 10px;
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  .tekt1 {
+    text-align: center;
+    font-weight: 700;
+    margin-top: 10px;
+   }
+  .tekt2 {
+    text-align: center;
+   font-weight: 700;
+   margin-top: 10px;
+  }
+  .tekt3 {
+    text-align: center;
+   font-weight: 700;
+   margin-top: 10px;
+  }
+  
+  .tekt4 {
+    text-align: center;
+   font-weight: 700;
+   margin-top: 10px;
+  }
+  .img:hover {
+      color: #000;
+      transform: scale(1.04);
+  }
+  .tekt1:hover {
+    color: #000;
+    transform: scale(1.04);
+  }
+  .tekt2:hover {
+    color: #000;
+    transform: scale(1.04);
+  }
+  .tekt3:hover {
+    color: #000;
+    transform: scale(1.04);
+  }
+  .tekt4:hover {
+    color: #000;
+    transform: scale(1.04);
+  }
+a:hover {
+  color: #000;
+}
+
+/* -------------------- */
+.market {
+  max-width: 1200px;
+  margin: 0 auto;
+  } 
+.logo4 {
+  font-weight: 700;
+  font-size: 26px;
+  text-decoration: none;
+  color: #000;
+  transition: all .08 ease-in-out;
+  margin-left: 375px;
+  margin-top: 75px;
+}
+.magz{
+  margin-top: 30px;
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+  display: flex;
+  justify-content: space-around;
+  }
+  .mag2 {
+   
+    height: 200px;
+    background-color:247, 243, 215;
+    border-radius: 5px;
+  }
+  .img2 {
+    object-fit: cover;
+    max-width: 250px;
+    max-height: 150px;
+    
+  }
+  
